@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UI</string>
+    <string name="tv_text">internationalization</string>
+    <string name="load">load</string>
+    <string name="user">user:</string>
+    <string name="pwd">pwd:</string>
+</resources>
